@@ -1,0 +1,153 @@
+/* ================= CONTAINER ================= */
+.homeCatSlider {
+  background-color: #000;
+  width: 100%;
+  overflow: hidden; /* 🔥 important */
+}
+
+.container {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+/* ================= SWIPER ================= */
+.catSwiper {
+  position: relative;
+  padding: 12px 0;
+}
+
+/* Slide width fix */
+.catSwiper .swiper-slide {
+  width: auto !important;
+  display: flex;
+  justify-content: center;
+}
+
+/* ================= CATEGORY ITEM ================= */
+.catItem {
+  width: 110px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 8px;
+}
+
+/* ================= ICON BOX ================= */
+.iconBox {
+  background: linear-gradient(135deg, #093fc0, #12da2d);
+  border-radius: 10px;
+  padding: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Icon */
+.iconBox svg {
+  font-size: 42px;
+  color: #fff;
+}
+
+/* Text */
+.catItem h3 {
+  font-size: 14px;
+  font-weight: 500;
+  color: #fff;
+}
+
+/* ================= NAVIGATION ARROWS ================= */
+.homeCatSlider .swiper-button-prev,
+.homeCatSlider .swiper-button-next {
+  color: #12DAAA !important;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.homeCatSlider .swiper-button-prev::after,
+.homeCatSlider .swiper-button-next::after {
+  font-size: 22px !important;
+  font-weight: bold !important;
+}
+
+.homeCatSlider .swiper-button-prev {
+  left: 0;
+}
+
+.homeCatSlider .swiper-button-next {
+  right: 0;
+}
+
+:root {
+  --swiper-navigation-size: 30px;
+}
+
+/* ================= TABLET ================= */
+@media (max-width: 1024px) {
+  .catItem {
+    width: 95px;
+  }
+
+  .iconBox {
+    padding: 15px;
+  }
+
+  .iconBox svg {
+    font-size: 36px;
+  }
+
+  .catItem h3 {
+    font-size: 13px;
+  }
+}
+
+/* ================= MOBILE ================= */
+@media (max-width: 768px) {
+  .catSwiper {
+    padding: 8px 0;
+  }
+
+  .catItem {
+    width: 80px;
+    gap: 6px;
+  }
+
+  .iconBox {
+    padding: 12px;
+    border-radius: 8px;
+  }
+
+  .iconBox svg {
+    font-size: 30px;
+  }
+
+  .catItem h3 {
+    font-size: 11px;
+    line-height: 1.2;
+  }
+
+  /* Hide arrows on mobile */
+  .homeCatSlider .swiper-button-prev,
+  .homeCatSlider .swiper-button-next {
+    display: none;
+  }
+}
+
+/* ================= SMALL MOBILE ================= */
+@media (max-width: 480px) {
+  .catItem {
+    width: 70px;
+  }
+
+  .iconBox {
+    padding: 10px;
+  }
+
+  .iconBox svg {
+    font-size: 26px;
+  }
+
+  .catItem h3 {
+    font-size: 10px;
+  }
+}

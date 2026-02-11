@@ -1,0 +1,361 @@
+{
+  "Televisions & Accessories": [
+    {
+      "id": 1,
+      "name": "Samsung 43\" Crystal 4K UHD Smart TV",
+      "price": 28999,
+      "rating": 4.4,
+      "image": "/image/img1.png"
+    },
+    {
+      "id": 2,
+      "name": "LG 55\" 4K UHD Smart LED TV",
+      "price": 45999,
+      "rating": 4.5,
+      "image": "/image/img2.png"
+    },
+    {
+      "id": 3,
+      "name": "Sony Bravia 50\" 4K Smart TV",
+      "price": 62999,
+      "rating": 4.6,
+      "image": "/image/img3.png"
+    },
+    {
+      "id": 4,
+      "name": "Mi 43\" X Series 4K TV",
+      "price": 24999,
+      "rating": 4.3,
+      "image": "/image/img4.png"
+    },
+    {
+      "id": 5,
+      "name": "OnePlus 65\" QLED Smart TV",
+      "price": 69999,
+      "rating": 4.5,
+      "image": "/image/img5.png"
+    },
+    {
+      "id": 6,
+      "name": "Fire TV Stick 4K",
+      "price": 5999,
+      "rating": 4.4,
+      "image": "/image/img6.png"
+    }
+  ],
+
+  "Home-Appliances": [
+    {
+      "id": 1,
+      "name": "LG 7kg Front Load Washing Machine",
+      "price": 28990,
+      "rating": 4.5,
+      "image": "/image/img7.png"
+    },
+    {
+      "id": 2,
+      "name": "Samsung 253L Double Door Refrigerator",
+      "price": 26990,
+      "rating": 4.4,
+      "image": "/image/img8.png"
+    },
+    {
+      "id": 3,
+      "name": "IFB 30L Convection Microwave",
+      "price": 14990,
+      "rating": 4.3,
+      "image": "/image/img9.png"
+    },
+    {
+      "id": 4,
+      "name": "Philips 750W Mixer Grinder",
+      "price": 3499,
+      "rating": 4.2,
+      "image": "/image/img10.png"
+    },
+    {
+      "id": 5,
+      "name": "Voltas 1.5 Ton 3 Star Split AC",
+      "price": 34999,
+      "rating": 4.4,
+      "image": "/image/img11.png"
+    },
+    {
+      "id": 6,
+      "name": "Havells Room Heater",
+      "price": 2199,
+      "rating": 4.1,
+      "image": "/image/img12.png"
+    }
+  ],
+
+  "Phones & Wearables": [
+    {
+      "id": 1,
+      "name": "Apple iPhone 15 (128GB)",
+      "price": 79999,
+      "rating": 4.7,
+      "image": "/image/img13.png"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S23 FE",
+      "price": 42999,
+      "rating": 4.5,
+      "image": "/image/img17.png"
+    },
+    {
+      "id": 3,
+      "name": "OnePlus Nord CE 3 Lite",
+      "price": 19999,
+      "rating": 4.3,
+      "image": "/image/img15.png"
+    },
+    {
+      "id": 4,
+      "name": "Redmi Note 13 Pro",
+      "price": 24999,
+      "rating": 4.4,
+      "image": "/image/img14.png"
+    },
+    {
+      "id": 5,
+      "name": "Apple Watch SE (2nd Gen)",
+      "price": 29999,
+      "rating": 4.6,
+      "image": "/image/img18.png"
+    },
+    {
+      "id": 6,
+      "name": "Samsung Galaxy Fit 3",
+      "price": 4999,
+      "rating": 4.2,
+      "image": "/image/img16.png"
+    }
+  ],
+
+  "Computers & Tablets": [
+    {
+      "id": 1,
+      "name": "HP Pavilion 15 Laptop (i5, 12th Gen)",
+      "price": 62999,
+      "rating": 4.4,
+      "image": "/image/img19.png"
+    },
+    {
+      "id": 2,
+      "name": "Dell Inspiron 14 Laptop",
+      "price": 55999,
+      "rating": 4.3,
+      "image": "/image/img20.png"
+    },
+    {
+      "id": 3,
+      "name": "Lenovo IdeaPad Slim 3",
+      "price": 41999,
+      "rating": 4.2,
+      "image": "/image/img21.png"
+    },
+    {
+      "id": 4,
+      "name": "Apple MacBook Air M1",
+      "price": 74999,
+      "rating": 4.7,
+      "image": "/image/img22.png"
+    },
+    {
+      "id": 5,
+      "name": "Samsung Galaxy Tab S9 FE",
+      "price": 36999,
+      "rating": 4.5,
+      "image": "/image/img23.png"
+    },
+    {
+      "id": 6,
+      "name": "Apple iPad 10th Gen",
+      "price": 39999,
+      "rating": 4.6,
+      "image": "/image/img24.png"
+    }
+  ],
+
+  "Audio & Video": [
+    {
+      "id": 1,
+      "name": "Sony WH-1000XM5 Headphones",
+      "price": 29999,
+      "rating": 4.7,
+      "image": "/image/img25.png"
+    },
+    {
+      "id": 2,
+      "name": "boAt Rockerz 550 Headphones",
+      "price": 1999,
+      "rating": 4.3,
+      "image": "/image/img26.png"
+    },
+    {
+      "id": 3,
+      "name": "JBL Flip 6 Bluetooth Speaker",
+      "price": 9999,
+      "rating": 4.5,
+      "image": "/image/img27.png"
+    },
+    {
+      "id": 4,
+      "name": "Sony HT-S20R Soundbar",
+      "price": 18999,
+      "rating": 4.4,
+      "image": "/image/img28.png"
+    },
+    {
+      "id": 5,
+      "name": "Zebronics Zeb-Juke Bar",
+      "price": 7499,
+      "rating": 4.2,
+      "image": "/image/img29.png"
+    },
+    {
+      "id": 6,
+      "name": "Apple AirPods Pro (2nd Gen)",
+      "price": 24999,
+      "rating": 4.6,
+      "image": "/image/img30.png"
+    }
+  ],
+
+  "Cameras & Accessories": [
+    {
+      "id": 1,
+      "name": "Canon EOS 1500D DSLR Camera",
+      "price": 36999,
+      "rating": 4.5,
+      "image": "/image/img31.webp"
+    },
+    {
+      "id": 2,
+      "name": "Nikon D5600 DSLR Camera",
+      "price": 56999,
+      "rating": 4.4,
+      "image": "/image/img32.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Sony Alpha a6400 Mirrorless",
+      "price": 74999,
+      "rating": 4.6,
+      "image": "/image/img33.webp"
+    },
+    {
+      "id": 4,
+      "name": "GoPro HERO11 Black",
+      "price": 42999,
+      "rating": 4.5,
+      "image": "/image/img34.jpg"
+    },
+    {
+      "id": 5,
+      "name": "SanDisk 128GB SD Card",
+      "price": 1499,
+      "rating": 4.4,
+      "image": "/image/img35.webp"
+    },
+    {
+      "id": 6,
+      "name": "Digitek Camera Tripod",
+      "price": 1999,
+      "rating": 4.2,
+      "image": "/image/img36.webp"
+    }
+  ],
+
+  "Smart Devices": [
+    {
+      "id": 1,
+      "name": "Amazon Echo (5th Gen)",
+      "price": 5499,
+      "rating": 4.4,
+      "image": "/image/img37.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Google Nest Mini",
+      "price": 4499,
+      "rating": 4.3,
+      "image": "/image/img38.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Mi Smart Band 8",
+      "price": 3999,
+      "rating": 4.2,
+      "image": "/image/img39.jpg"
+    },
+    {
+      "id": 4,
+      "name": "TP-Link Tapo Smart Plug",
+      "price": 999,
+      "rating": 4.1,
+      "image": "/image/img40.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Philips Hue Smart Bulb",
+      "price": 2199,
+      "rating": 4.3,
+      "image": "/image/img41.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Noise Smart Home Security Camera",
+      "price": 2999,
+      "rating": 4.2,
+      "image": "/image/img42.webp"
+    }
+  ],
+
+  "Gaming": [
+    {
+      "id": 1,
+      "name": "Sony PlayStation 5",
+      "price": 54990,
+      "rating": 4.8,
+      "image": "/image/img43.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Xbox Series X",
+      "price": 52990,
+      "rating": 4.7,
+      "image": "/image/img44.webp"
+    },
+    {
+      "id": 3,
+      "name": "Logitech G102 Gaming Mouse",
+      "price": 1299,
+      "rating": 4.5,
+      "image": "/image/img45.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Redgear Shadow Blade Keyboard",
+      "price": 2999,
+      "rating": 4.3,
+      "image": "/image/img46.webp"
+    },
+    {
+      "id": 5,
+      "name": "Razer Kraken X Headset",
+      "price": 3499,
+      "rating": 4.4,
+      "image": "/image/img47.webp"
+    },
+    {
+      "id": 6,
+      "name": "Cosmic Byte Ares Controller",
+      "price": 2499,
+      "rating": 4.2,
+      "image": "/image/img48.webp"
+    }
+  ]
+}
