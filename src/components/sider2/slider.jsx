@@ -2,7 +2,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/navigation";
 
-import { Navigation } from "swiper/modules";
+import { Navigation, Autoplay } from "swiper/modules";
 import { useNavigate } from "react-router-dom";
 
 import { CiMobile1 } from "react-icons/ci";
@@ -48,7 +48,11 @@ const Slider2 = () => {
           slidesPerView="auto"
           spaceBetween={16}
           navigation
-          modules={[Navigation]}
+          autoplay={{
+            delay: 3000,
+            disableOnInteraction: false,
+          }}
+          modules={[Navigation, Autoplay]}
           className="catSwiper"
         >
           {categories.map((item, index) => (

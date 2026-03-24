@@ -106,7 +106,7 @@ const Navbar = () => {
       <div className="md:hidden w-full flex items-center justify-between bg-black border-b border-white px-3 py-2 relative z-50">
         <Link to="/">
           <h1 className="text-white font-semibold text-lg">
-            Pankaj <span className="text-[#12DAAA]">Electronics</span>
+            New Pankaj <span className="text-[#12DAAA]">Electronics</span>
           </h1>
         </Link>
 

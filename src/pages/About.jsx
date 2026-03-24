@@ -7,12 +7,12 @@ const About = () => {
 
         {/* ================= HEADING ================= */}
         <h1 className="text-3xl md:text-4xl font-semibold mb-6">
-          About <span className="text-[#12DAAA]">Pankaj Electronics</span>
+          About <span className="text-[#12DAAA]">New Pankaj Electronics</span>
         </h1>
 
         {/* ================= INTRO ================= */}
         <p className="text-gray-300 text-lg leading-relaxed mb-6">
-          <strong>Pankaj Electronics</strong> is a trusted electronics and home
+          <strong>New Pankaj Electronics</strong> is a trusted electronics and home
           appliance store located in <strong>Shahdara, Sector 141, Noida</strong>.
           We specialize in providing high-quality electronics, home appliances,
           and smart devices at competitive prices with reliable after-sales

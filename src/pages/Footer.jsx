@@ -11,7 +11,7 @@ const Footer = () => {
         {/* ================= BRAND ================= */}
         <div>
           <h2 className="text-white text-xl font-semibold mb-3">
-            Pankaj <span className="text-[#12DAAA]">Electronics</span>
+            New Pankaj <span className="text-[#12DAAA]">Electronics</span>
           </h2>
           <p className="text-sm leading-relaxed">
             Your trusted destination for electronics, home appliances,

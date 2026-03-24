@@ -7,7 +7,7 @@ import "swiper/css/effect-coverflow";
 import "swiper/css/pagination";
 import "./slider.css";
 
-import { EffectCoverflow, Pagination } from "swiper/modules";
+import { EffectCoverflow, Pagination, Autoplay } from "swiper/modules";
 
 const categories = [
   "Phones & Wearables",
@@ -50,7 +50,11 @@ const Slider = () => {
         slideShadows: true,
       }}
       pagination
-      modules={[EffectCoverflow, Pagination]}
+      autoplay={{
+        delay: 2500,
+        disableOnInteraction: false,
+      }}
+      modules={[EffectCoverflow, Pagination, Autoplay]}
       className="mySwiper"
     >
       {categories.map((category, index) => (
